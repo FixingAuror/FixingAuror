@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @FixingAuror
+# 👋 Hi, I’m [@FixingAuror](https://github.com/FixingAuror)
 - 👀 I’m interested in fixing AurorOS!
 - 🌱 I’m currently learning Rust!
 - 📫 Reach me at [Discord](https://discord.com/users/1115686491222450247)
